@@ -1,0 +1,12 @@
+[package]
+name = "contract-sdk-rust"
+version = "0.1.0"
+authors = ["chenfengjin <1871653365@qq.coom>"]
+edition = "2018"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
+
+[lib]
+crate-type = ['cdylib']
